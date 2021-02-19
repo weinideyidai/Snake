@@ -1,0 +1,8 @@
+一：游戏设计
+	游戏题材：贪吃蛇
+	游戏规则：吃食物变长
+	
+二：游戏开发
+	1、工程架构
+			GameFrame(游戏窗口)、GameControll(游戏控制器)、Node(游戏节点)、Food(食物)、Snake(蛇)
+			GameProperties(游戏参数)
